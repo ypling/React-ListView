@@ -1,0 +1,29 @@
+{
+  "name": "react-listview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "glupfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ypling/React-ListView.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ypling/React-ListView/issues"
+  },
+  "homepage": "https://github.com/ypling/React-ListView#readme",
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "gulp-notify": "^2.2.0",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.4.0"
+  }
+}
